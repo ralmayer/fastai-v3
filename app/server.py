@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.googleapis.com/drive/v3/files/1cIclK1nFcJklDEu2TTOGivHB4bt-loTa?alt=media&key=AIzaSyCR9k5RIW0H8-c71LTw1y_UKhMtdjxetHY'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/1cIclK1nFcJklDEu2TTOGivHB4bt-loTa?alt=media&key=AIzaSyCzCEMROu9WC39bGVlydRuF3TgX8ZN5DTA'
 export_file_name = 'export.pkl'
 
 classes = ['art_deco','brutalism','japanese']
